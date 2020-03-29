@@ -1,5 +1,5 @@
 # middleware-example
-An simple implementation of rate limiter using [go-redis](https://github.com/go-redis/redis_rate).  
+A simple implementation of rate limiter using [go-redis](https://github.com/go-redis/redis_rate).  
 It's also a show case of middleware usage in [gin](https://github.com/gin-gonic/gin).
 
 ## Quick start
