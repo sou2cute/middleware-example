@@ -12,7 +12,7 @@ It's also a show case of middleware usage in [gin](https://github.com/gin-gonic/
 ```sh
     docker-compose up
 ```
-3.  Check ip location that docker machine configured.
+3.  Check ip location that docker machine is configured.
 ```sh
     docker-machine ip
 ```
